@@ -1,0 +1,20 @@
+{
+  "name": "using-jest-and-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-image-snapshot": "^6.4.0",
+    "jest-puppeteer": "^9.0.2",
+    "pixelmatch": "^5.3.0",
+    "pngjs": "^7.0.0",
+    "puppeteer": "^21.9.0"
+  }
+}
